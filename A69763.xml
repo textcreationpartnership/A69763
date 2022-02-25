@@ -1,0 +1,1254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present state of the controversie between the Church of England and the Church of Rome, or, An account of the books written on both sides in a letter to a friend.</title>
+            <author>Clagett, William, 1646-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69763</idno>
+            <idno type="STC">Wing C4390</idno>
+            <idno type="STC">ESTC R2767</idno>
+            <idno type="EEBO-CITATION">11782059</idno>
+            <idno type="OCLC">ocm 11782059</idno>
+            <idno type="VID">49131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49131)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 709:19 or 811:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present state of the controversie between the Church of England and the Church of Rome, or, An account of the books written on both sides in a letter to a friend.</title>
+                  <author>Clagett, William, 1646-1688.</author>
+                  <author>Tenison, Thomas, 1636-1715.</author>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Basset, James Adamson, and Tho. Newborough,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of originals in Huntington Library and Duke University Library.</note>
+                  <note>Attributed to William Clagett. cf. NUC pre-1956.</note>
+                  <note>Begun by Tenison and finished by Clagett. cf. DNB.</note>
+                  <note>Ascribed also to Thomas Tenison and William Wake. cf. McAlpin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49131:1"/>
+            <pb facs="tcp:49131:1"/>
+            <p>THE
+<hi>Preſent State</hi>
+OF THE
+CONTROVERSIE
+BETWEEN THE
+Church of <hi>ENGLAND</hi>
+AND THE
+Church of <hi>ROME;</hi>
+OR,
+An Account of the Books written
+on both ſides. In a LETTER to a Friend.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Guil. Needham,</signed>
+                           <dateline>
+                              <date>May 7. 1686.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON</hi>:
+Printed for <hi>Tho. Baſſet, James Adamſon,</hi> and
+<hi>Tho. Newborough,</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49131:2"/>
+            <pb n="3" facs="tcp:49131:2"/>
+            <head>THE
+Preſent State
+OF THE
+CONTROVERSIE
+BETWEEN THE
+Church of ENGLAND
+AND THE
+Church of ROME, &amp;c.
+In a LETTER to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN purſuance of my promiſe made to you, to
+ſend you ſuch an account as you deſire, of what
+has been lately publiſhed here, with reference
+to the Points in Controverſie between us and
+the Church of <hi>Rome;</hi> I now give you the
+trouble of this Addreſs.</p>
+            <p>It was you know the deſign of the Clergy of this
+City ſome years ſince, to reduce the matters in debate
+with the Diſſenting Party, to a certain number of
+<pb n="4" facs="tcp:49131:3"/>
+Caſes, and in the plaineſt and moſt inoffenſive manner
+that they could, to ſhew them how little cauſe they
+had to ſeparate from our Communion upon any of
+thoſe pretences, which were ſaid to be the cauſe of
+Separation. I need not tell you what their <hi>Performan<g ref="char:EOLhyphen"/>ces</hi>
+were, for you have read their Tracts, and are
+therefore able to judg, from your own knowledg,
+concerning them. As to the <hi>Succeſs</hi> which they have
+had, we that live here, have not only obſerved that
+our Churches have been more charged ſince, but do
+alſo know, that ſeveral for whoſe ſake thoſe Diſcour<g ref="char:EOLhyphen"/>ſes
+were principally intended, have declared them<g ref="char:EOLhyphen"/>ſelves
+abundantly ſatisfied, both with the ſtrength and
+temper that appear'd in them.</p>
+            <p>When this firſt undertaking was finiſhed, their next
+reſolution was to run through the principal Points of
+difference between the Papiſts and us after the ſame
+manner, that thoſe who had not the lieſure or oppor<g ref="char:EOLhyphen"/>tunity
+to conſult longer Books, might here in ſhort
+be led to a true knowledg of the Controverſie, and
+ſtand the firmer in the truth, by being better acquaint<g ref="char:EOLhyphen"/>ed
+with the grounds of it. It was alſo hoped, that
+many who had hitherto been detained in their Errors
+for want not ſo much of a Will to embrace the Truth,
+as of Light to diſcern it by, might poſſibly take this op<g ref="char:EOLhyphen"/>portunity
+of ſeeing with their own eyes, and diſco<g ref="char:EOLhyphen"/>ver
+that way of Error in which their ignorance or
+their prejudices had ſo long detained them.</p>
+            <p>But before they had finiſhed this their ſecond un<g ref="char:EOLhyphen"/>dertaking,
+the ſudden and unexpected Death of our
+late Royal Sovereign broke their meaſures, and from
+thenceforth they thought fit to be of the Defenſive
+ſide, and for ſome time publiſhed no more Diſcourſes
+of this kind, but waited to ſee whether the Gentle<g ref="char:EOLhyphen"/>men
+<pb n="5" facs="tcp:49131:3"/>
+of the <hi>Roman</hi> Communion would make any At<g ref="char:EOLhyphen"/>taques
+upon us, or be contented that the Controver<g ref="char:EOLhyphen"/>ſie
+ſhoud reſt as it was.</p>
+            <p>But becauſe you deſire an Account of all that has
+been done of this nature, I will let you know how
+far they advanced in their deſign, and give you a
+Catalogue of their Tracts, tho not juſt in the order
+as they came out, yet in that order which ſeems to
+have been deſign'd, and is moſt natural for you to
+peruſe them. And in the firſt place, as a prepara<g ref="char:EOLhyphen"/>tory
+to all the reſt, there is a little Tract intituled,</p>
+            <q>I. A Perſwaſive to an ingenuous Trial of Opinions
+in Religion, <hi>&amp;c.</hi>
+            </q>
+            <p>and which they who know the unreaſonable preju<g ref="char:EOLhyphen"/>dices
+of thoſe of the <hi>Roman</hi> Communion, as to any
+free enquiry, cannot doubt to have been exceeding
+neceſſary. To which I muſt add,</p>
+            <q>II. The difference of the Caſe between the ſepa<g ref="char:EOLhyphen"/>ration
+of Proteſtants from the Church of
+<hi>Rome,</hi> and the ſeparation of Diſſenters from
+the Church of <hi>England.</hi>
+            </q>
+            <p>For both theſe Tracts, as you may eaſily diſcern, were
+deſign'd to remove ſuch Miſtakes and Prejudices as
+are common to Papiſts and to Diſſenters, and were
+therefore thought to be a proper tranſition from
+the firſt undertaking to the ſecond.</p>
+            <p>Then follow thoſe Treatiſes that relate to the Que<g ref="char:EOLhyphen"/>ſtions
+about the Church, and for which our Adver<g ref="char:EOLhyphen"/>ſaries
+of late ſeem the moſt concern'd.</p>
+            <q>
+               <p>
+                  <pb n="6" facs="tcp:49131:4"/>
+III. A Diſcourſe of the Unity of the Catholick
+Church maintain'd in the Church of <hi>England.</hi>
+               </p>
+               <p>IV. A Diſcourſe about the Charge of Novelty upon
+the Reformed Church of <hi>England,</hi> made by
+the Papiſts, aſking of us the Queſtion, Where
+was our Religion before <hi>Luther?</hi>
+               </p>
+               <p>V. The Proteſtant Reſolution of Faith, being
+an Anſwer to three Queſtions,
+<list>
+                     <item>1. How far we muſt depend on the Authority of
+the Church for the true ſenſe of Scripture?</item>
+                     <item>2. Whether a Viſible Succeſſion from Chriſt to this
+day, makes a Church which has this Viſible Suc<g ref="char:EOLhyphen"/>ceſſion,
+an infallible Interpreter of Scripture?</item>
+                     <item>3. Whether the Church of <hi>England</hi> can make out
+ſuch a Viſible Succeſſion?</item>
+                  </list>
+               </p>
+               <p>VI, VII. Two Diſcourſes concerning the neceſſity
+of Reformation, with reſpect to the Errors and
+Corruptions of the Church of <hi>Rome.</hi>
+               </p>
+            </q>
+            <p>Another ſort of general Queſtions neceſſary to
+have been premiſed to the particular Diſputes, do
+refer to the principle on which we are to proceed in
+the management of them.</p>
+            <p>And to this purpoſe there were publiſhed the two
+following Tracts,</p>
+            <q>
+               <p>
+                  <pb n="7" facs="tcp:49131:4"/>
+VIII. A Diſcourſe about Tradition, ſhewing what
+is meant by it, and what Tradition is to be re<g ref="char:EOLhyphen"/>ceived,
+and what Tradition is to be rejected.</p>
+               <p>IX. A Diſcourſe concerning a Guide in matters
+of Faith, with reſpect eſpecially to the Ro<g ref="char:EOLhyphen"/>miſh
+pretence of ſuch a one as is infallible.</p>
+            </q>
+            <p>Thus far they proceeded upon general Points, and
+no farther, tho more were deſign'd to be debated,
+as one may ſee by the dividing and managing of the
+Arguments which they finiſhed, and as I my ſelf have
+been told by ſome that were beſt able to inform me.</p>
+            <p>But as theſe general Diſcourſes were coming a<g ref="char:EOLhyphen"/>broad
+into the World; the particular Diſputes were
+prepared, and thoſe that follow were publiſhed.</p>
+            <q>
+               <p>X. A Diſcourſe concerning the Object of Reli<g ref="char:EOLhyphen"/>gious
+Worſhip; or, a Scripture Proof of the
+unlawfulneſs of giving any Religious Worſhip
+to any other Being beſides the Supreme God.</p>
+               <p>XI. A Diſcourſe concerning the Devotions of the
+Church of <hi>Rome,</hi> eſpecially as compared with
+thoſe of the Church of <hi>England,</hi> in which it
+is ſhewn, that whatſoever the Romaniſts pre<g ref="char:EOLhyphen"/>tend,
+there is not ſo true Devotion among
+them, nor ſuch rational proviſion for it, nor
+encouragement to it, as in the Church eſtabliſh<g ref="char:EOLhyphen"/>ed
+by Law amongſt us.</p>
+               <p>
+                  <pb n="8" facs="tcp:49131:5"/>
+XII. A Diſcourſe concerning the Invocation of
+Saints.</p>
+               <p>XIII. Of Prayer in an unknown Tongue.</p>
+               <p>XIV. Of Auricular Confeſſion, as it is preſcribed
+by the Council of <hi>Trent.</hi>
+               </p>
+               <p>XV. A Diſcourſe againſt Tranſubſtantiation.</p>
+               <p>XVI. Of the Adoration of the Hoſt.</p>
+            </q>
+            <p>Theſe are the Tracts that were publiſhed in pur<g ref="char:EOLhyphen"/>ſuance
+of that Deſign I mention'd before, ſince which
+time, our Divines have kept themſelves, as I told
+you, upon the Defenſive Part, their whole Work ha<g ref="char:EOLhyphen"/>ving
+been little elſe than to anſwer ſuch printed
+Books, or Papers ſcatter'd about in writing, as the
+Romaniſts have from time to time ſent abroad.</p>
+            <p>I need not tell you that at length we were ſurpri<g ref="char:EOLhyphen"/>ſed
+with a Book publiſhed by ſome Romaniſt, which
+has made no little noiſe all over the Kingdom, and
+has been the occaſion of many more: But that
+which ſurpriſed us was this, that there was not the
+leaſt notice taken in it, of thoſe Diſcourſes now men<g ref="char:EOLhyphen"/>tioned,
+and not long before publiſhed in behalf of
+the Church of <hi>England</hi> againſt the Church of <hi>Rome.</hi>
+            </p>
+            <p>The diſcreet Perſons of that Communion acknow<g ref="char:EOLhyphen"/>ledged
+they were above Contempt; and it was the
+general perſwaſion of our Communion, that they would
+not admit of any juſt and reaſonable Anſwer; and
+for this very reaſon, ſome appearance of an Anſwer
+<pb n="9" facs="tcp:49131:5"/>
+was generally expected to ſave, if it might be, the
+reputation of the <hi>Roman</hi> Cauſe, or at leaſt of the
+Ability of our Adverſaries to maintain it, unleſs they
+ſhould think fit to let the Controverſie lye ſtill,
+which if they had done, I believe our Divines had
+thought themſelves obliged by the example, not to
+publiſh new Books upon it, but to content them<g ref="char:EOLhyphen"/>ſelves
+with that diligence in their Parochial Stations,
+that might be ſufficient to countermine any ſecret
+endeavours to draw People from the Communion
+of this Church: But it ſeems our Adverſaries thought
+fit to begin a Diſpute, and that without taking the
+leaſt notice of what had been ſo lately done on our
+ſide: Which tho we wondred at, at firſt, yet we
+have given over wondering at it now that we are
+ſomething uſed to their way of Controverſie. For
+ſome of them (as the Repreſenter knows) can with<g ref="char:EOLhyphen"/>out
+bluſhing for the matter, drop the Defence of
+Arguments, and the maintaining of Diſputes begun by
+themſelves; and yet they write on ſtill, as if the Cauſe
+went for them, and they had not made one falſe ſtep
+in the management of it.</p>
+            <p>But I muſt now give you a particular account how
+theſe Gentlemen began, and in what manner they
+carried on that Aſſault, of which it is poſſible they
+may have had ſome cauſe to repent them ſince.</p>
+            <p>The firſt that led the way, was one that calls him<g ref="char:EOLhyphen"/>ſelf
+<hi>R. L.</hi> with a Book full of Cunning and Diſſimu<g ref="char:EOLhyphen"/>lation,
+intituled<g ref="char:punc">▪</g>
+            </p>
+            <q>A Papiſt Miſrepreſented and Repreſented.</q>
+            <p>In which he runs through moſt of the Points in Con<g ref="char:EOLhyphen"/>troverſie
+between us in a two-fold Character; in
+<pb n="10" facs="tcp:49131:6"/>
+one of which he pretends to ſhew that which Pa<g ref="char:EOLhyphen"/>piſts
+are commonly miſunderſtood to be; in the other,
+that which, as he ſays, they really are.</p>
+            <p>The real deſign of this Method, you muſt know is
+this. Popery in its proper colours is ſo unlike Catho<g ref="char:EOLhyphen"/>lick
+Chriſtianity, that it is in vain ever to hope to pro<g ref="char:EOLhyphen"/>mote
+it, if it appear in its own ſhape. It is neceſſary
+therefore, that the Religion, like the Prophet, ſhould
+come to us in <hi>Sheeps cloathing,</hi> and the Hereſie to be
+made look as Orthodox as is poſſible. Some things
+are denied, others mollified, all diſguiſed, and a double
+benefit thereby obtaind: Popery is to be received as
+a very innocent, harmleſs thing; and the Proteſtants,
+eſpecially the Miniſters and firſt Reformers repreſent<g ref="char:EOLhyphen"/>ed
+to the World, as a ſort of People that have ſup<g ref="char:EOLhyphen"/>ported
+themſelves by Calumnies and Lies, and made
+a noiſe about Errors and Corruptions, which are no
+where to be found, but in their own Brains or Books,
+but which the Church of <hi>Rome</hi> deteſts no leſs than We.</p>
+            <p>But this Trick was quickly diſcovered, and the
+deſign laid open by an excellent hand, in a Treatiſe
+which he called</p>
+            <p>
+               <hi>I.</hi> The Doctrines and Practices of the Church of
+<hi>Rome</hi> truly repreſented; in anſwer to a Book
+intituled, A Papiſt Miſrepreſented and Repre<g ref="char:EOLhyphen"/>ſented,
+<hi>&amp;c.</hi>
+            </p>
+            <p>In which the Author paſſes through every Point of
+his Characters, and truly ſtates the Queſtion between
+us, and gives a ſhort, yet ſufficient account of our
+Reaſons againſt their Tenets.</p>
+            <p>
+               <pb n="11" facs="tcp:49131:6"/>
+I ſhall not need enlarge my ſelf to give you any ac<g ref="char:EOLhyphen"/>count
+of this Controverſie which has been lately ſum<g ref="char:EOLhyphen"/>med
+up, to ſatisfie the World, that this Author has
+taken as little care to defend his Characters, as he
+ſhew'd Sincerity in the firſt drawing of them. The
+Books themſelves that have paſſed on both ſides are
+theſe.</p>
+            <q>Reflections upon the Anſwer to the Papiſt Miſre<g ref="char:EOLhyphen"/>preſented,
+&amp;c.</q>
+            <q>
+               <hi>II.</hi> A Papiſt not Miſrepreſented by Proteſtants,
+being a Reply to the Reflections, <hi>&amp;c.</hi>
+            </q>
+            <p>Papiſts proteſting againſt Proteſtant Popery; in
+Anſwer to a Diſcourſe intituled, A Papiſt not
+Miſrepreſented by Proteſtants.</p>
+            <q>
+               <hi>III.</hi> An Anſwer to a Diſcourſe intituled, Papiſts
+proteſting againſt Proteſtant Popery, contain<g ref="char:EOLhyphen"/>ing
+a particular Examination of Monſieur de
+<hi>Meaux</hi> late Biſhop of <hi>Condom</hi>'s Expoſition
+of the Doctrine of the Church of <hi>Rome,</hi> in the
+Articles of the Invocation of Saints, and Wor<g ref="char:EOLhyphen"/>ſhip
+of Images.</q>
+            <p>An Amicable Accommodation of the difference be<g ref="char:EOLhyphen"/>tween
+the Repreſenter and the Anſwerer, in re<g ref="char:EOLhyphen"/>turn
+to his laſt reply.</p>
+            <q>
+               <pb n="12" facs="tcp:49131:7"/>
+               <hi>IV.</hi> An Anſwer to the Amicable Accom<g ref="char:EOLhyphen"/>modation
+of the Difference between
+the Repreſenter and the Anſwerer.</q>
+            <p>A Reply to the Anſwer to the amicable
+Accommodation.</p>
+            <p>To which has lately been returned,</p>
+            <q>
+               <hi>V.</hi> A View of the whole Controverſie
+between the Repreſenter and the An<g ref="char:EOLhyphen"/>ſwerer,
+with an Anſwer to the Re<g ref="char:EOLhyphen"/>preſenters
+laſt Reply.</q>
+            <p>This is in ſhort the Sum of what has hitherto paſs'd in
+this Diſpute, the Miſrepreſenter not having yet taken
+any notice of this new Antagoniſt, who it's thought
+by ſome, has ſumm'd up this Controverſie ſo effectually,
+as to put an end to it. As for his ſecond Part which he
+acted afterward under the Character of the Catholick
+Repreſenter, I ſhall have occaſion to give you ſome
+farther account of it when I come to thoſe Pieces of
+our own Divines that have either been the occaſion of,
+or the Anſwers to his Sheets and half Sheets.</p>
+            <p>
+               <pb n="13" facs="tcp:49131:7"/>
+The next that appeared upon the Stage, was the
+famous Biſhop of <hi>Condom,</hi> the great Abettor, if not
+Founder of this new Sect of Expoſitors of their Re<g ref="char:EOLhyphen"/>ligion,
+and the occaſion of his appearance this. Our
+Miſrepreſenter being anſwer'd the firſt time, as has been
+ſaid by the Learned Author of the <hi>Doctrines and Pra<g ref="char:EOLhyphen"/>ctices
+of the Church of</hi> Rome <hi>truly repreſented.</hi> The new
+Method of Expounding and Repreſenting, <hi>i. e.</hi> Diſ<g ref="char:EOLhyphen"/>ſembling
+the good Old Doctrine of the Church began
+to ſink; and the People who were principally de<g ref="char:EOLhyphen"/>ſign'd
+to be ſeduced by it, generally diſcovered
+the Snare that had been laid for them. It was
+now too late to recede into the old Popery again.
+The Miſrepreſenter had not only forſaken, but in
+good meaſure <hi>Anathematiz'd</hi> that, and profeſs'd that
+they abhorr'd it no leſs than we; and therefore to
+own it now, was in effect to confeſs that we had
+reaſon to reform thoſe Errors which themſelves were
+once aſhamed to abet: So that what remained, was
+to put a good face upon the matter, and ſee if the
+Original Pattern, the pompous Expoſition of this
+Biſhop, with the long Relation of an Advertiſe<g ref="char:EOLhyphen"/>ment,
+and the glorious Trains of Briefs and Ap<g ref="char:EOLhyphen"/>probations
+before and behind, might not poſſibly
+ſupport the undertaking, and keep up the credit
+of their new Popery, which muſt otherwiſe neceſ<g ref="char:EOLhyphen"/>ſarily
+fall.</p>
+            <p>Such was the occaſion, or rather the neceſſity of
+publiſhing this Biſhpps Book, which you have ſeen
+under the Title of,</p>
+            <p>
+               <pb n="14" facs="tcp:49131:8"/>
+The Expoſition of the Doctrine of
+the Catholick Church in matters
+of Controverſie.</p>
+            <p>To which there have been two Anſwers made, of
+one of which there has been no notice taken by
+the other Party: 'Tis called</p>
+            <q>
+               <hi>I.</hi> An Anſwer to the Biſhop of <hi>Con<g ref="char:EOLhyphen"/>dom</hi>'s
+Expoſition, <hi>&amp;c.</hi> with Refle<g ref="char:EOLhyphen"/>tions
+on his Paſtoral Letter.</q>
+            <p>The only Excuſe I can think of for the other Par<g ref="char:EOLhyphen"/>ties
+not replying to this Anſwer, was becauſe an<g ref="char:EOLhyphen"/>other
+came out before it, which is yet but a lame
+pretence, ſince the Book is not only a direct and full
+Anſwer to all that was offered by the Biſhop of
+<hi>Condom,</hi> either in the way of Expoſition or Argu<g ref="char:EOLhyphen"/>ment,
+but has alſo a conſiderable variety of uſeful
+Reflections, which perhaps made it more adviſable
+to let it alone, than to go about to conſult it.
+The other is,</p>
+            <q>
+               <hi>II.</hi> An Expoſition of the Doctrine of
+<pb n="15" facs="tcp:49131:8"/>
+the Church of <hi>England,</hi> in the
+ſeveral Articles propoſed by the
+Biſhop of <hi>Condom,</hi> in his Ex<g ref="char:EOLhyphen"/>poſition
+of the Doctrine of the Ca<g ref="char:EOLhyphen"/>tholick
+Faith</q>
+            <p>This Anſwer was ſo exquiſite in all its parts, that
+it could not fail of gaining a general eſteem; but
+the ſuddenneſs in which it was diſpatch'd, rais'd the
+admiration of all. And that which made it yet more
+taken notice of, was the preface prefix'd to it, in
+which the worthy Author (who had the advantage
+of informing himſelf of theſe matters, by living ſome
+time in <hi>France</hi>) gives a large account of this Bi<g ref="char:EOLhyphen"/>ſhops
+Expoſition, and of a ſuppreſs'd Edition, which
+it ſeems had carried the Trick a little too far, and
+therefore was not permitted to ſee the Light, toge<g ref="char:EOLhyphen"/>ther
+with ſome other matters of Fact that very much
+laid open the Deſign.</p>
+            <p>But to thoſe particulars wherewith you are al<g ref="char:EOLhyphen"/>ready
+well acquainted, I beg leave to add another
+piece of Hiſtory which I have learn'd concerning
+this matter.</p>
+            <p>You muſt underſtand then the project of Con<g ref="char:EOLhyphen"/>verting
+the <hi>French</hi>-Proteſtants, which has been more
+or leſs carried on ever ſince <hi>Henry</hi> the Fourth's time,
+was more eſpecially agitated at the concluſion of the
+<pb n="16" facs="tcp:49131:9"/>
+               <hi>Pyrenean</hi> Treaty almoſt 30 years ſince: The <hi>Spaniards</hi>
+being apprehenſive of the <hi>French</hi> Power, and willing
+to divert it by an undertaking, which they thought
+might find them work at home, and not leave them
+at leiſure to diſturb their Neighbours. It was re<g ref="char:EOLhyphen"/>ſolved
+there, at the ſame time that the Civil Power
+began to oppreſs them, the Church ſhould offer ſome
+Terms of a Reunion to them, and all poſſible en<g ref="char:EOLhyphen"/>deavours
+be uſed to encline them to accept it: To
+this end Money was ſecretly given to ſeveral of the
+Miniſters, to favour this Project; but the Deſign be<g ref="char:EOLhyphen"/>ing
+diſcover'd by a Miniſter of <hi>Bas-Languedoc,</hi> the Sy<g ref="char:EOLhyphen"/>nod
+of <hi>Niſmes, Ann.</hi> 1662. and that of <hi>Cevennes</hi> being
+aſſembled not long after, appeard ſo vigorouſly againſt
+it, that they were forc'd to lay aſide the Deſign for
+ſome time. About Ten years after it broke out
+again; but the Miniſters of <hi>Languedoc</hi> and the Sy<g ref="char:EOLhyphen"/>nod
+of the Iſle of <hi>France</hi> oppoſing it, as thoſe of
+<hi>Niſmes</hi> and <hi>Cevennes</hi> had done before, it came to
+nothing.</p>
+            <p>Now this ſecond attempt was dated preciſely
+at the ſame time that the Biſhop of <hi>Condom</hi>'s Ex<g ref="char:EOLhyphen"/>poſition
+began to ſee the Light: And that which
+convinces me that it was purpoſely contriv'd for
+the advancing this Deſign is this, that the Marſhal
+de <hi>Turene,</hi> who was this Biſhops Convert, and
+the principal Defender of this Expoſition, was al<g ref="char:EOLhyphen"/>ſo
+at the ſame time the great Undertaker for this
+Project. 'Tis well known how to this end he ſent
+a Perſon through the ſeveral Provinces of <hi>France,</hi>
+with private Inſtructions to thoſe Miniſters, which
+he thought he could moſt influence to cloſe with it:
+<pb n="17" facs="tcp:49131:9"/>
+And in effect he did obtain ſeveral of their Subſcri<g ref="char:EOLhyphen"/>ptions,
+whom when the Proteſtant Synods would
+afterwards have cenſur'd for their ſo doing, the
+Kings Commiſſioners took their parts, and would
+not ſuffer them to do it.</p>
+            <p>And here I ought not to forget one particular
+which may be worth your knowledg, and that is
+this. Among others to whom the <hi>Marſhal</hi> ſent,
+one was the famous Monſieur le <hi>Blanc,</hi> he was at
+that time Priſoner at <hi>Sedan,</hi> and the moderation
+that he ſhewed in ſtating the Controverſies of
+<hi>Grace, Free-Will, Predeſtination,</hi> &amp;c. gave them
+great hopes that he might eaſily be drawn in to
+the favouring their Project of an Accomodation
+with the Church of <hi>Rome,</hi> by meeting one another
+half way. The Agent brought him a Letter from
+Monſieur de <hi>Turene</hi> to this purpoſe, but was mighti<g ref="char:EOLhyphen"/>ly
+ſurprized, when inſtead of what he expected,
+hee found him ſtiff and inflexible, and abſolutely
+reſolved not to relax any thing. Indeed the very
+attempt that was made upon him, ſo diſturbed him,
+that he could not be ſatisfied with his private re<g ref="char:EOLhyphen"/>ſentmeut
+of it, but in the year 1673. publiſhed a
+Diſputation to them, that the re-union which they
+had attempted with the <hi>Lutherans</hi> made nothing to
+one with the Papiſts, which he there ſhews to be
+impoſſible.</p>
+            <p>This with what you have read in the Preface
+to the Tract, which has occaſiond this Digreſſion,
+may ſeem to ſatisfie you, what the Quality of the
+Biſhop of <hi>Condom</hi>'s Expoſition is, and what intreague
+<pb n="18" facs="tcp:49131:10"/>
+it was deſigned to ſerve. You have the <hi>Politiques
+of the Clergy of</hi> France, in which Book you may
+ſee the very Propoſitions that were made for this
+Accommodation, and which are a pure Original of
+New Popery, and ſo conformable to the French
+Expoſitor, and our Engliſh Miſrepreſenter, that you
+cannot doubt but that they all deſigned to carry on
+the ſame Deſign.</p>
+            <p>For the little value that is to be ſet upon the
+Approbations prefix'd to it: The Author of the
+Expoſition of the Doctrine of the Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi>
+has I think ſaid enough to ſatifie you: To
+which you may add, that in the late Diviſions be<g ref="char:EOLhyphen"/>tween
+the <hi>Janſeniſts</hi> and their Oppoſers in <hi>France,</hi>
+the Books on both ſides have been very ſolemnly
+approved, and the <hi>Janſeniſts</hi> above any. And in
+the preſent Caſe, either the Approbations of the
+Biſhop of <hi>Condom</hi>'s Expoſition ſignifie nothing, or
+thoſe heretofore prefix'd to Cardinal <hi>Bellarmines</hi>
+Works, and their other learned Controvertiſts are
+become ſuper-annuated; for all theſe cannot poſſi<g ref="char:EOLhyphen"/>bly
+ſtand together.</p>
+            <p>But I run too far from my buſineſs, and muſt re<g ref="char:EOLhyphen"/>turn
+to our Expoſitor, who was not long without
+an Anſwer, entituled</p>
+            <q>
+               <pb n="19" facs="tcp:49131:10"/>
+               <hi>IV.</hi> A Vindication of the Biſhop of
+<hi>Condom</hi>'s Expoſition, with a Let<g ref="char:EOLhyphen"/>ter
+from the ſaid Biſhop.</q>
+            <p>I will not tire you with giving my own ſenſe of the
+Performances of any whoſe Titles I ſend you, and
+whoſe Books I leave you to judg of when you read
+them. I will only obſerve to you, that we are very
+much beholding to the Biſhop, with confeſſing the
+particulars wich his Adverſary had charged him
+with, and which there are many that before did
+hardly believe. And for his Excuſes which he
+makes, the truth is, they are ſo little to the pur<g ref="char:EOLhyphen"/>poſe,
+that he has gain'd but little credit even a<g ref="char:EOLhyphen"/>mong
+his Friends by them. And if this be as they
+ſay, the firſt notice he ever took of any Adverſa<g ref="char:EOLhyphen"/>ry
+that appeared againſt him, he would do very
+well to have a care of ſetting out Vindications of
+his Works, at which he appears to be ſo horribly
+unlucky.</p>
+            <p>But for all this you may recur to the Reply
+that has been made by the ſame Author who wrote
+the Expoſition of our Doctrine in his ſecond under<g ref="char:EOLhyphen"/>taking,
+alled</p>
+            <q>
+               <hi>V.</hi> A Defence of the Expoſition of
+the Doctrine of the Church of
+<pb n="20" facs="tcp:49131:11"/>
+               <hi>England,</hi> againſt the Exceptions
+of the Biſhop of <hi>Condom</hi> and
+his Vindicator.</q>
+            <p>In which beſides an Anſwer to the Biſhops Let<g ref="char:EOLhyphen"/>ter,
+and a particular review of all the ſeveral Ar<g ref="char:EOLhyphen"/>ticles
+in debate, you will find in the <hi>Appendix</hi> ſome
+Pieces that will gratifie your Curioſity, relating to
+the Point of the Invocation of Saints. And in the
+cloſe of all, the Epiſtle of S. <hi>Chryſoſtome</hi> to <hi>Caeſarius,</hi>
+which had been indeed very baſely ſuppreſs'd by
+by them, but is now happily recovered, to the ever<g ref="char:EOLhyphen"/>laſting
+reproach of thoſe who have ſo often and
+confidently urged the Authority of that Father for
+to ſupport their new Hereſie of Tranſubſtantiation,
+and which he here in as plain words ſpeaks againſt,
+as if <hi>Peter Martyr</hi> had not only firſt produced, but
+as ſome of them have ſaid, had written the Epiſtle
+for him.</p>
+            <p>And thus far this Controverſie has proceeded,
+which at preſent ſtops here, though the Reverend
+Father who writ the Vindication, had prepar'd us
+to expect that it ſhould not long do ſo, But we
+now begin to think, that both the Vindicator and
+the Repreſenter, are ſenſible that their deſign will
+not bear being driven on any further.</p>
+            <q>
+               <pb n="21" facs="tcp:49131:11"/>
+But tho we have done with the buſineſs of the Expo<g ref="char:EOLhyphen"/>ſition,
+yet we muſt not ſo ſoon part with the Biſhop.
+For ſince the Publication of that, theſe new Popery<g ref="char:EOLhyphen"/>men,
+have favour'd the World with two other of his
+Pieces, the
+<list>
+                  <item>1. A Paſtoral Letter to the New-Converts of
+his Dioceſs. <hi>The</hi>
+                  </item>
+                  <item>2. A Treatiſe of Communion under one kind.</item>
+               </list>
+            </q>
+            <p>The latter of theſe which had drawn in <hi>French</hi> an
+admirable Anſwer heretofore, from that exact Hiſtori<g ref="char:EOLhyphen"/>an,
+Monſieur <hi>Larroque;</hi> which 'tis ſaid, the Biſhop him<g ref="char:EOLhyphen"/>ſelf
+thought too ſtrong to be anſwer'd with any advan<g ref="char:EOLhyphen"/>tage;
+has alſo not long ſince produced us a Treatiſe ve<g ref="char:EOLhyphen"/>ry
+worthy your peruſing in our own Language, intitu<g ref="char:EOLhyphen"/>led</p>
+            <q>A Diſcourſe of the Communion in one Kind,
+in Anſwer to a Treatiſe of the Biſhop of
+Meaux, of Communion, &amp;c.</q>
+            <p>And in the two Diſcourſes, I mean the Biſhops and
+the Anſwer, you may expect to find whatever Artifice
+and Inſincerity can do on one ſide, or Truth and Learn<g ref="char:EOLhyphen"/>ing
+reply on the other.</p>
+            <p>For what concerns his Paſtoral Letter, I have ſeen ſe<g ref="char:EOLhyphen"/>veral
+Anſwers to it in <hi>French,</hi> and one particularly very
+accurately done, called <hi>Reponſe à Monſr. L'Eveque de</hi>
+Meaux <hi>ſur ſa lettre Paſtorale;</hi> which if you think fit, I
+will ſend you: I do not know that any one has particu<g ref="char:EOLhyphen"/>larly
+undertaken it here, any farther than what was done
+<pb n="22" facs="tcp:49131:12"/>
+by the Author of the ſecond Anſwer to his Expoſition,
+who made ſome Reflections upon the Paſtoral Letter
+too.</p>
+            <p>In this Letter, there is one notable paſſage; and the
+account of which, becauſe you may not perhaps meet
+with elſewhere, I will run the hazard of another Di<g ref="char:EOLhyphen"/>greſſion
+to offer it you here. In the <hi>3d</hi> page, there is
+ſet in Capital Letters, this notable Declaration, <hi>Not one
+of you hath ſuffer'd Violence, either in his Perſon or Goods.</hi>
+And page 4. <hi>So far,</hi> ſays he, <hi>have you been from ſuffer<g ref="char:EOLhyphen"/>ing
+Torments, that you have not ſo much as heard them
+mentioned; I hear other Biſhops affirm the ſame: You are
+returned peaceably to us, you know it.</hi>
+            </p>
+            <p>I doubt not but this Paſſage a little ſurpriſed you, as
+it did all the World that ever read it; being ſo contrary
+to all the Accounts that have come from thence. Indeed
+His M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſties Brief alone may ſerve for a Confutation
+to ſo ſhameful an Aſſertion, and ſhew us how little we
+can rely upon thoſe Gentlemen, when they talk to us
+of things that were done 12. or 14. years ago, that make
+no ſcruple of dealing thus with us in a matter of Fact,
+in the ſight of the World, before whoſe Eyes theſe
+things are acted: Nay, to tell the very Proteſtants
+themſelves, that they had ſuffer'd no Violence, that they
+knew it, when the contrary was as evident to them,
+as that their Hoſt is not the Body of a Man; and no
+doubt the Biſhop might as eaſily be able to prove the one,
+as with all his fine Words perſwade the other.</p>
+            <p>But I will open to you the Mytery of this. You muſt
+know then, That, as far as I can learn, the Dragoons
+were not lodged in the Biſhoprick of <hi>Meaux;</hi> but yet
+they came up to the very Gates of the City. Being
+thus in ſight of their Danger, and expecting every mi<g ref="char:EOLhyphen"/>nute
+when it would fall upon them, the Biſhop thought
+<pb n="23" facs="tcp:49131:12"/>
+that certainly now, if ever, they would be diſpoſed to
+compliance.</p>
+            <p>With this advantage he invites them to a Conference,
+appears more moderate than even his own Expoſition;
+and deſires very little more of them than what any one
+might venture to ſubſcribe. Such advances backt with
+ſo good an Authority as the Dragoons at the Gates, could
+not but prevail upon them; they ſubſcribed as he deſired,
+and ſo the Dragoons were diſmiſſed without doing
+them any farther miſchief.</p>
+            <p>In this ſtate, they continued for about three months,
+when the Biſhop began to Viſit his Dioceſs, and eſpe<g ref="char:EOLhyphen"/>cially,
+thoſe parts in which there were the moſt Prote<g ref="char:EOLhyphen"/>ſtants.
+His carriage upon this review was very diffe<g ref="char:EOLhyphen"/>rent
+from what it had been before. He was now no
+longer the free, relaxing, good natur'd Biſhop of <hi>Meaux,</hi>
+that held the Conference with them, but rigid as any
+little Emiſſary. He threatned thoſe, who refuſed to
+go to Maſs, and aſſiſt at the other Offices of the Church;
+and tho ſeveral told him that this was not what he had
+promiſed them, yet he took but little notice of it.
+Monſ. <hi>de Soguier,</hi> Lord of <hi>Charmoi,</hi> and Couſin to
+the late Chancellor <hi>Soguier,</hi> and ſeveral others more
+obſtinate than the reſt, both had the Dragoons quar<g ref="char:EOLhyphen"/>ter'd
+upon them in his Dioceſs, and are at this day Pri<g ref="char:EOLhyphen"/>ſoners
+upon this Account. This I have read in ſome
+late <hi>French</hi> Pieces, which have taken notice of it; but
+the main of what I ſend you, is an extract of a Letter,
+which was written to a Friend of mine out of <hi>France;</hi>
+and who being himſelf not long ſince there, confirm'd
+to me ſeveral of thoſe Particulars, as to this Biſhops
+Dioceſs.</p>
+            <p>I preſume you have heard how this Biſhop, who in
+his Paſtoral Letter dated <hi>March</hi> 24. denies, as you ſee,
+<pb n="24" facs="tcp:49131:13"/>
+that there has been any thing of violence uſed to the
+Proteſtants in <hi>France,</hi> did in another Letter to a Per<g ref="char:EOLhyphen"/>ſon
+of Quality that had eſcaped thence, and whom he
+deſired to draw back if poſſible to his Country, and
+his Church, both own and juſtifie the Perſecution.
+This Letter was dated but <hi>Apr.</hi> 4. after the other. This
+Honourable perſon had ſuch indignation againſt him
+for his double dealing, that he has permitted the Bi<g ref="char:EOLhyphen"/>ſhops
+Letter to him, to be printed; and which agrees as
+well with his Paſtoral Letter, as his Expoſition does
+with Cardinal <hi>Bellarmine</hi>'s Controverſies; the Old Po<g ref="char:EOLhyphen"/>pery
+from whence we reformed, with the New by which
+they would now ſeduce us.</p>
+            <p>A third ſubject there has been for a more important
+Controverſie than either of the foregoing, occaſioned
+by the Papers left by His Majeſty concerning the Autho<g ref="char:EOLhyphen"/>rity
+of the Catholick Church; and the Method of
+which lies thus:</p>
+            <p>The two Papers written by the late King
+<hi>Charles</hi> the Second.</p>
+            <p>1. <hi>The Anſwer intituled,</hi> An Anſwer to ſome
+Papers lately printed concerning the Au<g ref="char:EOLhyphen"/>thority
+of the Catholick Church in mat<g ref="char:EOLhyphen"/>ters
+of Faith, and the Reformation of
+the Church of <hi>England.</hi>
+            </p>
+            <p>To theſe there came out almoſt at the ſame time two
+Replies.</p>
+            <q>A Defence of the Papers written by the late
+King of Bleſſed Memory.</q>
+            <p>
+               <pb n="25" facs="tcp:49131:13"/>
+In which there is little remarkable beſides the un<g ref="char:EOLhyphen"/>handſome
+levity of the ſtile, and the ungrateful drolls
+in a matter of ſo much ſeriouſneſs.</p>
+            <q>A Reply to the Anſwer made upon the Three
+Royal Papers.</q>
+            <p>This is much more to be commended both for its
+ſtrength and decency; and they would perhaps much
+more have ſerved the intereſt of their Cauſe, and ſhewn
+their reſpect to His late Majeſty, had they ſuffer'd no
+other to appear.</p>
+            <p>But to both of them the ſame worthy Author who
+wrote the former Reply, has very lately publiſht a moſt
+Learned and Excellent Anſwer, and which I would very
+much recommend to your careful conſideration, Enti<g ref="char:EOLhyphen"/>tuled,</p>
+            <q>2 A Vindication of the Anſwer to ſome late
+Papers concerning the <g ref="char:V">Ʋ</g>nity and Authority
+of the Catholick Church, and the Reforma<g ref="char:EOLhyphen"/>tion
+of the Church of <hi>England.</hi>
+            </q>
+            <p>A Diſcourſe ſo Learnedly and clearly written, that
+we ought to thank our Adverſaries for their importu<g ref="char:EOLhyphen"/>nity
+that has produced us ſo excellent a Treatiſe in a
+Point of ſuch importance.</p>
+            <p>I think I have now ſet down all the Diſputes that
+have proceeded to any length this laſt year: For the
+reſt, they are either ſuch as you may call Occaſional
+Treatiſes only, or ſuch as are not advanced into any
+ſet and regular debates.</p>
+            <p>I. Of the former kind I underſtand theſe following:</p>
+            <p>
+               <pb n="26" facs="tcp:49131:14"/>
+Firſt, concerning St. <hi>Peter</hi>'s Supremacy, a Diſcourſe
+Intituled,</p>
+            <q>A Sermon preacht upon Saint <hi>Peter</hi>'s Day,
+printed at the deſire of ſome that heard it,
+with ſome Enlargements.</q>
+            <p>The Occaſion of which was this: Dr. <hi>Godden</hi> had
+the laſt year publiſhed a Sermon on this Subject which
+he preacht in the Q. Dowagers Chappel; whereupon
+the Reverend Author of this Diſcourſe having likewiſe
+preacht on the ſame day, and upon the ſame Text, was
+prevailed with to print his too.</p>
+            <p>Another Subject that has Occaſionally produced us
+two or three very good Treatiſes, is, <q>
+                  <hi>The Worſhip of
+Saints:</hi>
+               </q> Our late Miſrepreſenter and the Biſhop of
+<hi>Meaux</hi>'s Expoſition having been pleaſed very much to
+palliate the Doctrine and Practice of the Church of
+<hi>Rome</hi> as to this matter; and pretending that what they
+now do is no more than what was done even in the
+Fourth Age of the Church; it was neceſſary ſome par<g ref="char:EOLhyphen"/>ticular
+diſcovery ſhould be made of this Artifice, and
+it has accordingly been done very effectually in the
+following Tracts.</p>
+            <q>2 <hi>Speculum B. Virginis;</hi> A Diſcourſe of the
+due Praiſe and Honour of the Virg. <hi>Mary.</hi>
+            </q>
+            <p>In which is clearly ſet forth what we allow, and what
+the bold extravagancy of the Church of <hi>Rome</hi> has car<g ref="char:EOLhyphen"/>ri'd
+them to do in the Worſhip of the Bleſſed Virgin.</p>
+            <q>3 A Diſcourſe of the Worſhip of the Bleſſed
+Virgin and the Saints, with an account of
+<pb n="27" facs="tcp:49131:14"/>
+the beginning and riſe of it among Chriſti<g ref="char:EOLhyphen"/>ans,
+in Anſwer to <hi>Monſieur de Meaux</hi>'s
+Appeal to the Fourth Age in his Expoſiti<g ref="char:EOLhyphen"/>on
+and Paſtoral Letter.</q>
+            <q>4 Wholſome Advices from the Bleſſed Virgin
+to Her indiſcreet Worſhippers.</q>
+            <p>This laſt is but a Tranſlation: It was written origi<g ref="char:EOLhyphen"/>nally
+by a Papiſt, one Mr. <hi>Widenfelt,</hi> a Perſon of good
+Eſteem and Reputation in his Country; who being
+Scandalized at the extravagant Practices of his Church
+in this matter, wrote this little Treatiſe to awaken their
+Conſideration, and if poſſible, reduce the People from
+their uſual extravagance, to the Temper and Moderation
+of the preſent Advocates for their Cauſe, as to this
+matter. But alas! He found them too fond of their Old
+Popery, to leave it ſo eaſily: Inſtead of doing any good
+upon them, his Book was cenſured in a very extraor<g ref="char:EOLhyphen"/>dinary
+manner, and the Honour of the Bleſſed Virgin
+vindicated againſt theſe new Hereticks, by her faithful
+Champion Father <hi>Craſſet</hi> the Jeſuit: A ſhort Specimen
+of whoſe Book you may ſee at the end of the <hi>Defence
+of the Expoſition of the Doctrine of the Church of England;</hi>
+or if you had rather have it from their own Pens, as in<g ref="char:EOLhyphen"/>deed
+none can better expoſe their Extravagancies of
+this kind, than they have done themſelves, you may
+then conſult a late Popiſh Book called,</p>
+            <q>Contemplations on the life and glory of Holy
+<hi>Mary</hi> the Mother of Jeſus; With a daily
+Office agreeing to each Myſtery thereof. By
+<pb n="28" facs="tcp:49131:15"/>
+               <hi>J. C. D. D. To which he has ſince added,</hi>
+An Apology for his Contemplations, <hi>&amp;c.</hi>
+            </q>
+            <p>But of all this, you will find a particular account in
+an excellent Preface prefixt to theſe Advices by the
+Tranſlator of it; who profeſſes himſelf to be a Lay<g ref="char:EOLhyphen"/>man
+of our Church, and has the character of a very
+worthy, as he has ſufficiently ſhewn himſelf to be a ve<g ref="char:EOLhyphen"/>ry
+ingenious Gentleman.</p>
+            <p>It may be proper here to remark, that this Preface
+has been attacked by the Catholick Repreſenter; or the
+Miſrepreſenter transformed: in his <hi>4th</hi> Chapter of his
+Second part; and to which he has returned a ſmart Re<g ref="char:EOLhyphen"/>ply,
+called,</p>
+            <q>5. A Letter to the Miſrepreſenter of Papiſts.</q>
+            <p>Another occaſional Treatiſe came forth not long
+ſince, intituled,</p>
+            <q>6. A Diſcourſe concerning a Judg of Contro<g ref="char:EOLhyphen"/>verſies
+in matters of Religion; With an
+Addreſs to wavering Proteſtants, ſhewing
+what little Reaſon they have to think of
+any change of their Religion.</q>
+            <p>It was written in Anſwer to ſome Papers that had
+been ſent to the Learned Author, by a Perſon of Qua<g ref="char:EOLhyphen"/>lity,
+aſſerting the neceſſity of ſuch a Judg. If I ſhould
+tell you from whoſe Pen this Treatiſe came, you would
+need no other inducement carefully to read it. And
+to encourage you to it, I will only ſay thus much,
+that it has been generally received with great Applauſe
+<pb n="29" facs="tcp:49131:15"/>
+here, and do's certainly as well deſerve it, as any thing
+that has hitherto been publiſh'd among us.</p>
+            <p>Here has been publiſhed likewiſe a ſhort Tract con<g ref="char:EOLhyphen"/>cerning
+the nature of the Catholick Church, and the
+Authority of it.</p>
+            <p>It is not level'd againſt any particular Author; but
+deſign'd to anſwer the little captious Arguments now
+much in vogue; and therefore, neceſſary to have been
+thus prevented: The chief points handled in it, are theſe
+three. 1. What is the Nature of the Catholick Church.
+2. That the Church of <hi>Rome</hi> is not the Catholick
+Church. 3. That the Holy Scriptures, and not the
+Church, are the Rule of Faith. The Title of this
+Treatiſe, is this,</p>
+            <q>7. A plain and Familiar Diſcourſe by way of
+Dialogue, betwixt a Miniſter and his Pa<g ref="char:EOLhyphen"/>riſhioner
+concerning the Catholick Church.</q>
+            <p>To theſe I may add a Treatiſe, concerning the defe<g ref="char:EOLhyphen"/>ction
+of the Church of <hi>Rome</hi> from what it once was. It
+is an Anſwer to a Popiſh Paper, which the Author has
+Printed at the beginning of his Book, given about it ſeems
+by thoſe of that party, and ſent by way of Letter to a
+Gentleman: It is called,</p>
+            <q>8. An Anſwer to a late Paper given about
+by ſome of the Church of <hi>Rome.</hi>
+            </q>
+            <p>Another Subject that has occaſionally been handled, is,
+concerning Schiſm and Hereſy: It is an Anſwer to ſome
+things in a Popiſh Pamphlet, called, <hi>Why, are you a Catho<g ref="char:EOLhyphen"/>lick?</hi>
+The Author treats of the Nature of theſe two,
+and enquires to which Church it is that they really do
+<pb n="30" facs="tcp:49131:16"/>
+belong: In ſhort, Whether the Papiſts or we, are Schiſ<g ref="char:EOLhyphen"/>maticks
+and Hereticks? The Title is this,</p>
+            <q>9. A Vindication of the Church of <hi>England</hi>
+from the foul Aſperſions of Schiſm and He<g ref="char:EOLhyphen"/>reſy,
+unjuſtly caſt upon Her by the Church
+of <hi>Rome. In two Parts.</hi>
+            </q>
+            <p>The laſt Subject that has occaſionally, but yet more
+copiouſly been handled, and which upon that Account,
+I reſerved to this place, is concerning the Worſhip of
+Images, <hi>&amp;c.</hi> It began by this means. A Reverend Di<g ref="char:EOLhyphen"/>vine
+of our Church, took occaſion from the late Preten<g ref="char:EOLhyphen"/>ces
+of our Miſrepreſenting the Opinions of the Papiſts,
+to ſet forth an excellent Catechiſm, called</p>
+            <q>10. A Catechiſm truly repreſenting the Do<g ref="char:EOLhyphen"/>ctrines
+and Practices of the Church of
+<hi>Rome,</hi> with an Anſwer unto them.</q>
+            <p>It is not to be wonder'd that ſuch a Book as this
+ſhould be thought proper to be ſet forth; When the
+whole buſineſs of thoſe of the other Communion, was
+to palliate by any means the true Doctrines and Pra<g ref="char:EOLhyphen"/>ctices
+of their Church; it certainly became us to repre<g ref="char:EOLhyphen"/>ſent
+them to the World, as indeed they are. This has
+here been done from their own Authors, and with
+great Sincerity. But notwithſtanding this, the Miſre<g ref="char:EOLhyphen"/>preſenter
+that then was, in one of his Anſwers to the
+firſt great Controverſy I have mentioned, took him to
+task for it: In the cloſe of a new Edition of this Cate<g ref="char:EOLhyphen"/>chiſm,
+an anſwer was made to his Exceptions. Not
+long after this, the Miſrepreſenter began a new under<g ref="char:EOLhyphen"/>taking,
+<pb n="31" facs="tcp:49131:16"/>
+to oblige the World with a Sheet a week, firſt;
+called <hi>the Second Part of the Papiſt Repreſented and
+Miſrepreſented;</hi> and after, of half a Sheet, which he has
+continued to the number of ſixteen Chapters, under
+the new Character of the Catholick Repreſenter. In
+his <hi>1ſt, 2d, 5th</hi> and <hi>6th</hi> Sheets or Chapters, he falls
+upon the Author of this Catechiſm, with reference
+to the Point of the Worſhip of Images, and of the Croſs;
+which has produced us three ſhort, but yet excellent
+Anſwers, called
+<q>11.
+<list>
+                     <item>1. The Papiſts Repreſented and not Miſ<g ref="char:EOLhyphen"/>repreſented,
+in Anſwer to the firſt
+Sheet of the Second part.</item>
+                     <item>2. The like to the Second. <hi>And</hi>
+                     </item>
+                     <item>3. To the Fifth and Sixth.</item>
+                  </list>
+               </q>
+            </p>
+            <p>The buſineſs of all which is the ſame, <hi>viz.</hi> to ſhew
+what the true Doctrine of the Church of <hi>Rome</hi> is in the
+Points hefore mention'd, <hi>Of the Worſhip of Images, and
+of the Croſs.</hi>
+            </p>
+            <p>For the other ſort of Tracts that have been written,</p>
+            <q>II. More immediatly in Anſwer to ſome of their ſet
+Diſcourſes.</q>
+            <p>They have alſo been on different Subjects: Such as
+theſe.</p>
+            <q>(1.) Concerning Tranſubſtantiation.</q>
+            <p>Upon which their late Attempts, either to ſet up that,
+or to ruin the other Myſteries of the Goſpel, but eſpeci<g ref="char:EOLhyphen"/>ally,
+that of the Trinity, have occaſioned ſeveral ſhort,
+but accurate Diſcourſes: I ſhall ſend you the Titles of
+them.</p>
+            <q>
+               <p>
+                  <pb n="32" facs="tcp:49131:17"/>
+1. The Anſwer to the Popiſh Dialogue between a new
+Catholick Convert and a Proteſtant, to prove the
+Myſtery of the Trinity to be as abſurd a D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctrine as
+Tranſubſtantiation: By way of ſhort Notes upon the
+ſaid Dialogue.</p>
+               <p>2. The Doctrine of the Trinity and Tranſubſtantiation
+compared, as to Scripture, Reaſon, and Tradition:
+<hi>In Anſwer to the ſame, and in two Parts.</hi>
+               </p>
+            </q>
+            <p>To which I will add for the Affinity of the Subject,
+two other Treatiſes, <hi>viz.</hi>
+            </p>
+            <q>
+               <p>3. A Paraphraſe with Notes, and a Preface upon the
+6th Chapter of St. <hi>John,</hi> ſhewing that there is
+neither good Reaſon, nor ſufficient Authority to
+ſuppoſe that the Euchariſt is diſcourſed of in that
+Chapter, much leſs to infer the Doctrine of Tran<g ref="char:EOLhyphen"/>ſubſtantiation
+from it.</p>
+               <p>4. An Hiſtorical Treatiſe of Tranſubſtantiation, writ<g ref="char:EOLhyphen"/>ten
+by an Author of the Communion of the Church of
+<hi>Rome:</hi> Wherein is made appear, that according to
+the Principles of that Church, this Doctrine cannot
+be an Article of Faith.</p>
+            </q>
+            <p>To theſe Diſcourſes upon this ſubject, we cannot
+more fitly add any thing, than what has lately been
+done on another relating to the Holy Euchariſt, <hi>viz.</hi>
+            </p>
+            <q>(2.) Concerning the Real Preſence, and Adoration of
+the Hoſt.</q>
+            <p>You ought to know very well what gave occaſion to
+this Controverſie; <hi>viz.</hi> the two Diſcourſes ſet out by
+Mr. <hi>W</hi>—at <hi>Oxford</hi> on this Subject. As for the An<g ref="char:EOLhyphen"/>ſwer
+to them, it was ſent you into the Country, and
+bears this Title:</p>
+            <q>
+               <pb n="33" facs="tcp:49131:17"/>
+5. A Diſcourſe of the Holy Euchariſt in the two great
+Points of the Real Preſence, and of the Adoration of
+the Hoſt; in Anſwer to the two Diſcourſes ſet forth at
+<hi>Oxford</hi> on the ſame Subject.</q>
+            <p>It was I believe expected that this Controverſie would
+have either expoſed our Church, had we own'd the ex<g ref="char:EOLhyphen"/>travagant
+notion of the Real Preſence Mr. <hi>W</hi>—would
+put upon us, and which is indeed Couſin Ger<g ref="char:EOLhyphen"/>man
+to Tranſubſtantiation; or have raiſed, it may be, a
+Civil War amongſt us, if we did not. But I believe both
+their expectations will fail them; for certainly whate<g ref="char:EOLhyphen"/>ver
+ſome particular perſons may have believed them<g ref="char:EOLhyphen"/>ſelves,
+yet the Doctrine of the Church of <hi>England</hi> is
+plainly as the Anſwerer has repreſented it; and as we
+expect it will be farther proved in the other Reply
+which we are told is preparing at <hi>Oxford</hi> by an Eminent
+Perſon there to the ſame Book.</p>
+            <p>There is prefixt to this extant, a very large Preface,
+which has properly enough retorted Mr. <hi>W</hi>'s—Argu<g ref="char:EOLhyphen"/>ment;
+and ſhewn the World that if other Divines (as
+he pretends) have believed a Subſtantial Preſence of
+Chriſt's Natural Body in the Holy Euchariſt, 'tis more
+than many of the moſt Eminent of theirs have done,
+who are here plainly diſcover'd not to have believed
+Tranſubſtantiation.</p>
+            <p>A third Subject that has given occaſion to another
+Anſwer, is what they have called <hi>a Proteſtants plea for
+a Socinian.</hi> The deſign was to prove, that in interpre<g ref="char:EOLhyphen"/>ting
+Scripture by Reaſon, and not ſubmitting to the In<g ref="char:EOLhyphen"/>fallible
+Interpretation of what they call the Church,
+we make an Apology for the <hi>Socinians,</hi> and all other
+Hereticks whatſoever. The falſeneſs of this Pretence has
+been at large ſhewn in the Anſwer which an Eminent
+perſon of our Church has lately put out to it, called,</p>
+            <q>
+               <pb n="34" facs="tcp:49131:18"/>
+6. The Difference between the Proteſtant and <hi>Soci<g ref="char:EOLhyphen"/>nian</hi>
+Methods, in Anſwer to a Book, Entituled, A
+Proteſtants Plea for a <hi>Socinian.</hi>
+            </q>
+            <p>In which beſides a full account of this matter, you
+will find many other Curioſities relating to the Method
+and Principles of the <hi>Socinians,</hi> which you have never
+it may be elſwhere met with.</p>
+            <p>
+               <hi>To theſe I may add the Anſwers that have been ſet
+forth by way of Notes on ſome Papers called,</hi> Lucilla
+and Elizabeth, or the Donatiſt and Proteſtant Schiſms
+parallel'd. <hi>And,</hi> A Requeſt to Proteſtants to produce plain
+Scripture directly authorizing certain Tenets, which he
+there ſubjoins. <hi>The Anſwers are called,</hi>
+            </p>
+            <q>7. A Proteſtant of the Church of <hi>England</hi> no <hi>Do<g ref="char:EOLhyphen"/>natiſt.</hi>
+            </q>
+            <q>8. An Anſwer to the Request to Proteſtants, <hi>&amp;c.</hi>
+            </q>
+            <p>Which laſt Anſwer has had a Reply called, <hi>Proteſtan<g ref="char:EOLhyphen"/>cy
+destitute of Scripture-proof,</hi> againſt which there is, I
+am told, a Defence of the Anſwer now in the Preſs.</p>
+            <p>There are ſome other little things which I ought
+not to forget, becauſe they have done a great deal of
+good.</p>
+            <q>
+               <hi>As,</hi> The plain mans Reply to the Catholick Miſſio<g ref="char:EOLhyphen"/>naries.</q>
+            <q>
+               <hi>And</hi> An Anſwer to the Eighth Chapter of the
+Repreſenters ſecond Part in the firſt Dialogue between
+him and his Lay-friend.</q>
+            <p>Publiſhed by the Lay-man of whom I have ſpoken
+above. As for the Conference at the D. of <hi>P.</hi> which you
+<pb n="35" facs="tcp:49131:18"/>
+have heard of, one Mr<g ref="char:punc">▪</g> G. who maintained the <hi>Roman</hi>
+ſide, tried to reſolve the Infallibility of the Church in<g ref="char:EOLhyphen"/>to
+<hi>Oral Tradition,</hi> and afterwards boaſted ſo unmeaſu<g ref="char:EOLhyphen"/>rably
+of the Advantages he had made of the Controver<g ref="char:EOLhyphen"/>ſie,
+that he drew upon himſelf a juſt rebuke in a Prin<g ref="char:EOLhyphen"/>ted
+Paper called,</p>
+            <q>A Letter to Mr. <hi>G.</hi> concerning the Conference at the
+<hi>D.</hi> of <hi>P.</hi>
+            </q>
+            <p>Which having produced two Letters from the other
+ſide, there preſently came forth,</p>
+            <q>A ſecond Letter to Mr. <hi>G.</hi> in Anſwer to Two Letters
+lately publiſhed concerning the Conference at the <hi>D.</hi> of <hi>P.</hi>
+            </q>
+            <p>There is alſo lately publiſhed a Diſcourſe by an Inge<g ref="char:EOLhyphen"/>nious
+and worthy Gentleman, concerning the Authority
+of Councils, <hi>&amp;c.</hi> to which is added a ſhort but an effe<g ref="char:EOLhyphen"/>ctual
+Anſwer to the Eighth <hi>Theſes,</hi> by which Mr. <hi>W.—</hi>
+in his Part V. of Church-Government pretends to try
+the <hi>Engliſh</hi> Reformation. The Title is,</p>
+            <q>Of the Authority of Councils, and the Rule of Faith.
+By a Perſon of Quality. With an Anſwer to the Eight
+Theſes laid down for the Trial of the <hi>Engliſh</hi> Reforma<g ref="char:EOLhyphen"/>tion,
+in the Book that came last Week from <hi>Oxford.</hi>
+            </q>
+            <p>After which there came forth a Diſcourſe which is
+here exceedingly well received, and the Deſign whereof
+is ſufficiently explained by the Title, <hi>Viz.</hi>
+            </p>
+            <q>An Apologetical Vindication of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+in Anſwer to thoſe who reproach her with the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi>
+Hereſies and Schiſms, or ſuſpect her not to be a Ca<g ref="char:EOLhyphen"/>tholick
+Church upon their account.</q>
+            <p>
+               <pb n="36" facs="tcp:49131:19"/>
+I ought not to conceal the Anſwer to that Libel up<g ref="char:EOLhyphen"/>on
+the Reformation which you have ſeen, called <hi>Pax
+Vobis;</hi> though it is not a juſt Anſwer to the Book, but
+a Preface rather to more that is to follow. The Title is</p>
+            <q>Some Dialogues between Mr. <hi>G.</hi> and others, with Re<g ref="char:EOLhyphen"/>flexions
+upon a Book called <hi>Pax Vobis.</hi>
+            </q>
+            <p>When the Anſwerer has finiſhed his deſign, you may
+have what remains, as I am told under the ſame Title.</p>
+            <p>I ſhall conclude your Trouble at preſent with telling
+you of a Sett of Diſcourſes concerning the Notes of the
+Church, as they are laid down by <hi>Bellarmine.</hi> Thus far
+the Deſign has proceeded already.</p>
+            <q>
+               <list>
+                  <item>1. A Brief Diſcourſe concerning the Notes of the
+Church, with ſome Reflexions on Cardinal <hi>Bellarmine</hi>'s
+Notes.</item>
+                  <item>2. <hi>Bellarmine</hi>'s firſt Note of the Church, concerning
+the Name of <hi>Catholick</hi> examined.</item>
+                  <item>3. The 2d Note of the Church examined, <hi>viz.</hi> Antiquity.</item>
+                  <item>4. The 3d Note of the Church examined, <hi>viz.</hi> Duration.</item>
+               </list>
+            </q>
+            <p>I perceive we may expect the reſt in Order. I am Sir,</p>
+            <closer>
+               <signed>Yours, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:49131:19"/>
+            <pb facs="tcp:49131:20"/>
+            <p>Imprimatur, Liber cui Titulus, <hi>[An Anſwer to the Repreſenter's Reflections
+upon the View of the Controverſie, with a Reply to the Vindi<g ref="char:EOLhyphen"/>cator's
+Full Anſwer.]</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Jan. 21. 1687.</date>
+               </dateline>
+               <signed>
+                  <hi>H. Maurice,</hi> R<hi rend="sup">mo.</hi> in Chriſto
+P. D. Wilhelmo Archiep.
+Cant. a Sacris.</signed>
+            </closer>
+            <pb facs="tcp:49131:20"/>
+         </div>
+      </back>
+   </text>
+</TEI>
